@@ -3,13 +3,13 @@
 Welcome to the **Construction RAG Chatbot** repository! This project enables interactive querying of PDF documents using the **Mistral 7B** model. By combining **Retrieval-Augmented Generation (RAG)** techniques and the Mistral model, users can upload PDFs and ask questions, receiving the most contextually accurate responses. Built with LangChain and Streamlit, this chatbot is designed to simplify document analysis tasks within the construction industry, making information retrieval fast and intuitive.
 
 ## 📑 Table of Contents
-1. [📋 Project Overview](#project-overview)
-2. [🚀 Key Features](#key-features)
-3. [🔧 Installation & Setup](#installation--setup)
-4. [🛠️ Usage Guide](#usage-guide)
-5. [🏗️ Construction Use Cases](#construction-use-cases)
-6. [📈 Limitations & Future Enhancements](#limitations--future-enhancements)
-7. [🔗 General Links & Resources](#general-links--resources)
+1. [📋 Project Overview](#-project-overview)
+2. [🚀 Key Features](#-key-features)
+3. [🔧 Installation & Setup](#-installation--setup)
+4. [🛠️ Usage Guide](#️-usage-guide)
+5. [🏗️ Construction Use Cases](#-construction-use-cases)
+6. [📈 Limitations & Future Enhancements](#-limitations--future-enhancements)
+7. [🔗 General Links & Resources](#-general-links--resources)
 
 ---
 
@@ -96,3 +96,5 @@ This chatbot utilizes the **Mistral 7B** language model to perform document-base
 
 - **Our Website**: [www.apcmasterypath.co.uk](https://www.apcmasterypath.co.uk)
 - **LinkedIn**: [Mohamed Ashour](https://www.linkedin.com/in/mohamed-ashour-0727/)
+
+---
